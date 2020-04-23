@@ -1,0 +1,23 @@
+Esas son las presentaciones
+De lo que hemos visto y lo que íbamos a ver hasta el momento
+De proyecto para cuando regresemos
+Quiero lo siguiente:
+1.- Escribir un ciclo definido para imprimir por pantalla todos los números entre 10y 20.
+2.- Escribir un programa que devuelva la inversa de una cadena Ejemplo: Le das Hola y devuelve aloH
+3.- Programa que quita todas las vocales de una palabra, ejemplo le das Hola y arroja hl
+4.- Programa que sume todas las letras consonantes en una palabra, ejemplo Hola arroja 2
+5.- Programa que reciba una serie de números y arroja la media, moda, y la desviación estándar.
+6.- Programa que reciba una palabra y la guarde en un archivo.
+7.- Programa que reciba una palabra y el nombre del archivo donde se va a guardar.
+8.- Programa qué pregunte el nombre de la mamá de Goku y que lo siga preguntando hasta que le atines.
+9.- Programa que reciba 10 números y los ordene de mayor a menor.
+10.- Programa que reciba un flotante y lo convierta a entero.
+11.- Programa que reciba un número flotante entre el 1.0 y el 10.0 y que los ordene, imprimiendo con letra el número más grande (solamente la parte entera), ejemplo el número más grande fue 9.2 arrojar Nueve
+12.- Dar un número de horas y una tarifa por hora, luego dar un número de días y arrojar el total de dinero ganado, considerar cada día de 8 horas laborables.
+13.- Dada una cadena, quitar la primera letra y dejar el resto, ejemplo Recibo HOLA, imprimo OLA
+14.- Dada una cadena quitar la última y la primera letra e imprimir el resto. Ejemplo HOLA arrojaría OL
+15.- Recibir 10 números e imprimir solamente los primos.
+[7:50 p. m., 25/3/2020] Noe CUT: Si tienen dudas pueden mandarme un correo a: salazarpabloitm@gmail.com
+[7:51 p. m., 25/3/2020] Noe CUT: dice que dormir es para debiles
+
+EVER LA AEL OL EUQ LE OTUP
